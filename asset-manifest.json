@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.072f0856.chunk.css",
+    "main.js": "/drum-machine/static/js/main.604dc2a9.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.604dc2a9.chunk.js.map",
+    "runtime-main.js": "/drum-machine/static/js/runtime-main.dffe5c3a.js",
+    "runtime-main.js.map": "/drum-machine/static/js/runtime-main.dffe5c3a.js.map",
+    "static/js/2.d8454586.chunk.js": "/drum-machine/static/js/2.d8454586.chunk.js",
+    "static/js/2.d8454586.chunk.js.map": "/drum-machine/static/js/2.d8454586.chunk.js.map",
+    "static/js/3.da35a775.chunk.js": "/drum-machine/static/js/3.da35a775.chunk.js",
+    "static/js/3.da35a775.chunk.js.map": "/drum-machine/static/js/3.da35a775.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "static/css/main.072f0856.chunk.css.map": "/drum-machine/static/css/main.072f0856.chunk.css.map",
+    "static/js/2.d8454586.chunk.js.LICENSE.txt": "/drum-machine/static/js/2.d8454586.chunk.js.LICENSE.txt",
+    "static/media/v1.bfe03cbe.mp3": "/drum-machine/static/media/v1.bfe03cbe.mp3",
+    "static/media/v2.8c28d5f0.mp3": "/drum-machine/static/media/v2.8c28d5f0.mp3",
+    "static/media/v3.7c69947c.mp3": "/drum-machine/static/media/v3.7c69947c.mp3",
+    "static/media/v4.2288cf1e.mp3": "/drum-machine/static/media/v4.2288cf1e.mp3",
+    "static/media/v5.d7e9569f.mp3": "/drum-machine/static/media/v5.d7e9569f.mp3",
+    "static/media/v6.f77857c4.mp3": "/drum-machine/static/media/v6.f77857c4.mp3",
+    "static/media/v7.5e9cb5f9.mp3": "/drum-machine/static/media/v7.5e9cb5f9.mp3",
+    "static/media/v8.78143204.mp3": "/drum-machine/static/media/v8.78143204.mp3",
+    "static/media/v9.df3539ce.mp3": "/drum-machine/static/media/v9.df3539ce.mp3",
+    "static/media/violin-pic.4d670cc7.jpg": "/drum-machine/static/media/violin-pic.4d670cc7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dffe5c3a.js",
+    "static/js/2.d8454586.chunk.js",
+    "static/css/main.072f0856.chunk.css",
+    "static/js/main.604dc2a9.chunk.js"
+  ]
+}
